@@ -5,7 +5,7 @@ pandas
 numpy
 ipykernel
 matplotlib
-sklearn
+scikit-learn
 summarytools
 warnings
 yellowbrick
