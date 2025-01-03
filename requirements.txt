@@ -5,6 +5,7 @@ pandas
 numpy
 ipykernel
 matplotlib
+fuzzywuzzy
 scikit-learn
 summarytools
 yellowbrick
