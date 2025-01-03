@@ -4,3 +4,10 @@ plotly
 pandas
 numpy
 ipykernel
+matplotlib
+sklearn
+summarytools
+warnings
+yellowbrick
+seaborn
+IPython
