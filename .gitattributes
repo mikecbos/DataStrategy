@@ -2,3 +2,4 @@ CustomerSegmentation-Bank.ipynb filter=lfs diff=lfs merge=lfs -text
 CustomerSegmentation-Bank.html filter=lfs diff=lfs merge=lfs -text
 *.html filter=lfs diff=lfs merge=lfs -text
 bank.html filter=lfs diff=lfs merge=lfs -text
+autos.html filter=lfs diff=lfs merge=lfs -text
